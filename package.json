@@ -1,0 +1,31 @@
+{
+    "name": "nutrition-tracker-api-sdk",
+    "version": "1.0.0",
+    "description": "JavaScript SDK for Nutrition Tracker API - Get 25+ nutrients from natural language food queries",
+    "main": "nutritionApi.js",
+    "scripts": {
+        "example": "node example.js"
+    },
+    "keywords": [
+        "nutrition",
+        "api",
+        "food",
+        "calories",
+        "protein",
+        "vitamins",
+        "minerals",
+        "usda",
+        "health",
+        "fitness"
+    ],
+    "author": "Nutrition Tracker API",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/myProjectsRavi/nutrition-api-js.git"
+    },
+    "homepage": "https://myprojectsravi.github.io/nutrition-api-web/",
+    "dependencies": {
+        "node-fetch": "^2.7.0"
+    }
+}
